@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="ball_width">72dp</dimen>
+    <dimen name="ball_height">72dp</dimen>
+    <integer name="hit_wall_animation_duration">150</integer>
+</resources>
